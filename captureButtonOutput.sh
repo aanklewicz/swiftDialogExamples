@@ -6,7 +6,7 @@
 
 /usr/local/bin/dialog \
 --title "Example Script" \
---message "This is an exmaple of how to capture the exit code of a script, and then take action based on what button the user clicked." \
+--message "This is an example of how to capture the exit code of a script, and then take action based on what button the user clicked." \
 --icon "SF=bolt.circle color1=pink color2=blue" \
 --button1text "Primary button exits 0" \
 --button2text "Cancel button exits 2" \
